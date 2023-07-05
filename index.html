@@ -8,14 +8,17 @@
   <meta name="description" content="Description">
   <link rel="shortcut icon" href="/favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-  <link rel="stylesheet" media="(prefers-color-scheme: light)" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: dark)"
+    href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+  <link rel="stylesheet" media="(prefers-color-scheme: light)"
+    href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <style>
     .app-name {
       text-align: left !important;
       padding-left: 10px;
       font-weight: bold !important;
     }
+
     .app-name img {
       width: 36px;
     }
@@ -30,16 +33,20 @@
 <body>
   <div id="app"></div>
   <script>
+    var basePath = (window.location.origin || 'https://docs.arvin.finance') + '/';
     window.$docsify = {
       name: 'Arvin Finance',
       nameLink: 'https://arvin.finance',
       // logo: '/logo.svg',
       repo: 'https://github.com/Arvinfinance/docs',
       auto2top: true,
-      basePath: (window.location.origin || 'https://docs.arvin.finance') + '/',
+      basePath,
       nativeEmoji: true,
       autoHeader: false,
       loadSidebar: 'SUMMARY.md',
+      alias: {
+        '/.*/SUMMARY.md': '/SUMMARY.md', // See #301
+      },
       mergeNavbar: true,
       maxLevel: 4,
       subMaxLevel: 2,
@@ -61,7 +68,6 @@
   <!-- theme -->
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <!-- plugin -->
-  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
