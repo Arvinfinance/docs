@@ -1,4 +1,3 @@
-# Table of contents
 
 * [What is Arvin Finance?](README.md)
   * [Background](what-is-arvin-finance/background.md)
