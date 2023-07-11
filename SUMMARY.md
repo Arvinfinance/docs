@@ -1,11 +1,11 @@
 - [What is Arvin Finance?](README.md)
   - [Background](what-is-arvin-finance/background.md)
   - [What is the different?](what-is-arvin-finance/what-is-the-different.md)
-- [Product Features](product-features/README.md)
+- Product Features
   - [Isolated Lending Markets](product-features/isolated-lending-markets.md)
   - [Flexible Pricing Mechanism](product-features/flexible-pricing-mechanism.md)
   - [Key support for LSD assets](product-features/key-support-for-lsd-assets.md)
-- [Guide](guide/README.md)
+- Guide
   - [Process of borrowing](guide/process-of-borrowing.md)
   - [One-click leverage](guide/one-click-leverage.md)
   - [Liquidation](guide/liquidation.md)
@@ -14,8 +14,8 @@
 - [Degen NFT](degen-nft.md)
 - [Security and Audit](security-and-audit.md)
 - [Developer Documentation](developer-documentation/README.md)
-  - [Getting Started](developer-documentation/getting-started/README.md)
-    - [Arbitrum](developer-documentation/getting-started/arbitrum.md)
+  <!-- - [Getting Started](developer-documentation/getting-started/README.md) -->
+  - [Contract Address](developer-documentation/getting-started/arbitrum.md)
   - [Architecture and Components](developer-documentation/architecture-and-components/README.md)
     - [Architecture Overview](developer-documentation/architecture-and-components/architecture-overview.md)
     - [BentoBox](developer-documentation/architecture-and-components/bentobox.md)
