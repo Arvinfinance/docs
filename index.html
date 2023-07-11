@@ -42,7 +42,7 @@
       auto2top: true,
       basePath,
       nativeEmoji: true,
-      autoHeader: false,
+      autoHeader: true,
       loadSidebar: 'SUMMARY.md',
       alias: {
         '/.*/SUMMARY.md': '/SUMMARY.md', // See #301
@@ -61,9 +61,20 @@
         }
       },
       themeColor: '#296EFA',
+      pagination: {
+        previousText: {
+          '/': 'PREVIOUS'
+        },
+        // or
+        nextText: {
+          '/': 'NEXT'
+        },
+        crossChapter: true,
+        crossChapterText: true,
+      }
     }
   </script>
-  <!-- Docsify v4 -->
+  <!-- docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- theme -->
   <script src="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
@@ -74,6 +85,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  
 </body>
 
 </html>
