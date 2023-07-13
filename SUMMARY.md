@@ -36,5 +36,4 @@
   * [API Reference](developer/developer-documentation/api-reference.md)
   * [Security and Audits](developer/developer-documentation/security-and-audits.md)
   * [Community and Support](developer/developer-documentation/community-and-support.md)
-* [Page 1](developer/page-1.md)
 * [Security and Audit](developer/security-and-audit.md)
