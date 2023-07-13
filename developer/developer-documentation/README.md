@@ -31,8 +31,4 @@ Contents:
 
 We hope this documentation serves as a valuable resource for your development journey with Arvin. If you have any questions or need further assistance, don't hesitate to reach out to our community or support channels. Happy building!
 
-
-
 Github: [https://github.com/Arvinfinance](https://github.com/Arvinfinance)
-
-\

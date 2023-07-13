@@ -39,6 +39,10 @@ As a fair launch project, the Arvin team is committed to aligning with users thr
 * Liquidity Providers: Fixed daily emission of 400 VINs for a period of 180 days.
 * Early Adopters (Borrowers): Variable daily emissions based on collateral type.
 
+**Emmission Table:**
+
+<table><thead><tr><th width="319.3333333333333">Asset</th><th>VIN APR</th><th>VIN Emission per Day</th></tr></thead><tbody><tr><td>ETH</td><td>6%</td><td>~80</td></tr><tr><td>ARB</td><td>8%</td><td>~150</td></tr><tr><td>GLP</td><td>6%</td><td>~170</td></tr><tr><td>Convex LP(USDT+WBTC+ETH)</td><td>5%</td><td>~20</td></tr><tr><td>Magic</td><td>8%</td><td>~40</td></tr><tr><td>WBTC</td><td>6%</td><td>~60</td></tr><tr><td>GMX</td><td>8%</td><td>~70</td></tr><tr><td></td><td>Total Emission(per day)</td><td>~590</td></tr></tbody></table>
+
 **Staking and Vesting:**
 
 * Staked VIN: Receives 50% of protocol revenues, including interest revenue, liquidation fees, and borrowing fees, which are distributed in stablecoin IN.

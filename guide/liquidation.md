@@ -1,8 +1,5 @@
 # Liquidation
 
-\
-Liquidation Rules:
-
 Arvin Finance follows specific rules regarding liquidation to maintain the over-collateralization of its USD-pegged stablecoin, IN. Liquidation occurs when the ratio of borrower debt to collateral asset value reaches a predetermined threshold. This threshold, known as the "maximum collateral rate," signifies the point at which a debt position becomes eligible for liquidation within the Arvin Finance ecosystem.
 
 It is important to note that Arvin Finance operates as an isolated lending market, meaning that each collateralized debt position (CDP) is evaluated independently. In cases where a borrower possesses multiple CDPs, liquidation will only occur in the CDP that meets the liquidation conditions, sparing the borrower's other borrowing positions from liquidation.

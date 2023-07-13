@@ -2,15 +2,21 @@
 
 The objective of Arvin DAO is to establish a decentralized, trustless, and transparent community organization and governance system. DAOs operate through smart contracts that enable members to collectively vote and make decisions. The aim is to foster an open and democratic environment where decision-making authority is distributed among members, and rules are transparent and auditable. DAOs also oversee and manage protocol Treasury funds, develop decentralized applications, and collaborate on various initiatives.
 
-DAO Treasury:
+
+
+**DAO Treasury**
 
 The DAO Treasury generates revenue from protocol interest, clearing, market making, and bond sales. These funds are primarily allocated for team salaries, security audits, and partner distributions. At the beginning, the DAO Treasury holds 15% of the total VIN tokens, which are locked and gradually emitted at a rate of 20,000 VINs per week until fully emitted.
 
-Redemption:
+
+
+**Redemption**
 
 ARV holders have the ability to redeem and withdraw their DAO Treasury balance (excluding VIN). They can claim 80% of their corresponding share, while the remaining 20% is retained by the DAO. A monthly redemption UI window of 5 days is provided. Once the redemption process is completed, the corresponding ARV tokens are burned.
 
-Proposals:
+
+
+**Proposals**
 
 The Treasury's responsibilities include:
 
@@ -21,5 +27,3 @@ The Treasury's responsibilities include:
 5. Other business: Addressing any additional matters relevant to the DAO's operations.
 
 Through these mechanisms, Arvin DAO aims to empower the community to actively participate in decision-making and shape the future direction of the project.
-
-\
