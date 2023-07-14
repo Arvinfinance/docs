@@ -9,7 +9,7 @@
 | Arvin Degen NFT              | 0xf6ae32d904dAfBdd64AB93775d6ea83e7C4a5a3B |
 | Master Chef                  | 0x106Cc0fD4348860d844376B082FF31eA54a39034 |
 | Cauldron Master Contract     | 0xAF58E306D1dCb4b10681c5632e28768e752BEbe8 |
-| GMX Cauldron Master Contract | 0xAF58E306D1dCb4b10681c5632e28768e752BEbe8 |
+| GMX Cauldron Master Contract | 0x3625BfF8BC8fe96344EC1b0B650f0D31acCa5891 |
 | ETH/USD Oracle               | 0xadaeB7114CC306Cc3068B9F8aD2955eA0ac0E418 |
 | Cauldron(ETH)                | 0xd9F916C40b209512fDe5f36BDE2B04F2272351FC |
 | GLP Oracle                   | 0x4ADFDD40096A9e344ec66CB94Fc8bB40e7980304 |
@@ -24,3 +24,4 @@
 | Cauldron(GMX)                | 0xFB8872dd9dFC21B601b62Dd8AA7Db2c8cBCdFcc9 |
 | BTC/USD Oracle               | 0xc735Ac1Ff3035700F6DFE22Aa62608f62D59B071 |
 | Cauldron(BTC)                | 0xBb28464234806290bEc7bfFbD9B590D05359C9De |
+| Market Lens                  | 0x7b509cbC16D26fFca8f6AE816D8E17A6a854FD51 |
