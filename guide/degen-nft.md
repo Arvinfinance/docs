@@ -11,4 +11,6 @@ Discount levels based on NFT tiers:
 * Uncommon: 5% off
 * Common: 2% off
 
-To express gratitude towards crypto enthusiasts who have made significant contributions, Arvin Degen will airdrop the top XX individuals who achieved high DegenScores. The snapshot for this airdrop will be taken on May 15, 2023. The Treasury will reserve a specific number of NFTs, while the remaining NFTs will be minted and made available on Arvin's official website at a minting price of XX $VIN.
+In order to encourage early contributors to participate in the build of Arvin Finance, Degen NFT will adopt the pricing and issuance method of bonding curve, which sets the conditions of the joint curve function relationship in terms of time and supply quantity. Over time, the pricing of Degen NFT will continue to adapt to market demand and increase in value. Therefore, the earlier you participate in Degen NFT Mint, the more you can enjoy Degen NFT with low prices.
+
+Degen NFT is Arvin Finance's active exploration of the combination of functional NFT and DeFi. It is your VIP symbol in the Arvin DeFi world. In addition to lending discounts, it will add more interests in Arvin's various derivative businesses in the future, Degen NFTs will be a rare collection of interest NFTs in DeFi.
