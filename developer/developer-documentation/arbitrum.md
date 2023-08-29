@@ -10,6 +10,7 @@
 | Degen Box                       | 0x7da345D96BF3fE6E7b5395DFdf6be7c923f0D8A7 | -           |
 | Arvin Degen NFT                 | 0x05d2fc307369F83257E49Ee58ee4DC29c3eb6194 | -           |
 | Master Chef                     | 0x60551d9816Ae8a0B3872b0c0257BEe89BF2cdCe3 | -           |
+| LP Master Chef                  | 0xfF2812F6e9b747dd54DC7A830ed7C1914186d8c6 | -           |
 | Cauldron Master Contract        | 0x0EFfA5cF0D48EdA6c7079ef2A26dAE3E4f4637E8 | -           |
 | GMX Cauldron Master Contract    | 0x28d73743Fe425d5589064DcEA25BEEf64470E697 | -           |
 | Convex Cauldron Master Contract | 0x697Bd85eEc34Ced49CAd8D0840F93CF5Cc5aC0F9 | -           |
