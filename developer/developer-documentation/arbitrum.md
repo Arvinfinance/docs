@@ -1,4 +1,4 @@
-# Arbitrum-Goerli
+# Arbitrum
 
 ## Cores
 
@@ -16,29 +16,42 @@
 
 ## Cauldrons
 
-| Contract Name | Address                                    | Description |
-| ------------- | ------------------------------------------ | ----------- |
-| Cauldron(ETH) | 0x5FDca272dfcB7eE3541065EDf61e7320f1d8be43 | -           |
+| Contract Name   | Address                                    | Description |
+| --------------- | ------------------------------------------ | ----------- |
+| Cauldron(ETH)   | 0x1892bd4Af3e3BcC4E6f11CfeA7750e7177142925 | -           |
+| Cauldron(sGLP)  | 0x31d92c729F5cfF34Cf92b646AE9946882b79A3A1 | -           |
+| Cauldron(ARB)   | 0xa7ba1b644A4C0114Fc15F19B85b8817545bc03B1 | -           |
+| Cauldron(MAGIC) | 0x1092dDb11ccf5FC4C56FebCd17689BBd24D19441 | -           |
+| Cauldron(GMX)   | 0x0E6B77C00a1633a79Cf705E0Ec25765216d147C9 | -           |
+| Cauldron(BTC)   | 0xe41eF83d9C210573Cd9a7EA1e67E4B9959decDE1 | -           |
 
 ## Oracles
 
-| Contract Name  | Address                                    | Description |
-| -------------- | ------------------------------------------ | ----------- |
-| ETH/USD Oracle | 0x6764F5D70F4C4ECDD1A0b4f6a236666Ec8d09d71 | -           |
+| Contract Name    | Address                                    | Description |
+| ---------------- | ------------------------------------------ | ----------- |
+| ETH/USD Oracle   | 0x6764F5D70F4C4ECDD1A0b4f6a236666Ec8d09d71 | -           |
+| GLP Oracle       | 0x25DE4E141c38B59aA77Bcf8C4FF6f4C545c4Bd6a | -           |
+| ARB/USD Oracle   | 0x0803dE2514655Ebe764AD6d39ec365a7fc9afa99 | -           |
+| MAGIC/USD Oracle | 0xb2bcFE8C48180e3A38C2810629E4E91699d359a8 | -           |
+| GMX/USD Oracle   | 0xa5387704D7478C2D3E026908F379980603c27B58 | -           |
+| BTC/USD Oracle   | 0xFEcFc62c3164866275428a1A83aF7DA17979E71E | -           |
 
 ## Swappers
 
-| Contract Name | Address | Description |
-| ------------- | ------- | ----------- |
+| Contract Name        | Address                                    | Description |
+| -------------------- | ------------------------------------------ | ----------- |
+| GLP Leverage Swapper | 0x3D75C208d2Fbd8A595b848000a5434Caee507aC1 | IN -> Token |
+| GLP Swapper          | 0xAaBaC0c72b96Ba4b2e423B6f36698A61f9A65E12 | Token -> IN |
 
 ## Peripheries
 
 | Contract Name | Address                                    | Description |
 | ------------- | ------------------------------------------ | ----------- |
-| Market Lens   | 0x25DE4E141c38B59aA77Bcf8C4FF6f4C545c4Bd6a | -           |
+| Market Lens   | 0xA8Ab27D9521736781e48ecD298F4bF5Ef59dE3dF | -           |
+| Gmx Lens      | 0x19576bd0b7066b096b4028245E7A5AFE35010C1d | -           |
 
 ## Other
 
 | Contract Name | Address                                    | Description |
 | ------------- | ------------------------------------------ | ----------- |
-| VIN Locker    | 0xAf2dd4960B137d6c4B9b70EdEad2b77E849a441b | -           |
+| VIN Locker    | 0x6f912AF3C10A6F5d6Ae3541a10ee3E135097DDB8 | -           |
